@@ -1,11 +1,11 @@
 # Asynchronous Programming using Apache Camel
 
-## This Demo App gives an overview of how to achieve Parallel Processing using Apache Camel.
+This Demo App gives an overview of how to achieve Parallel Processing using Apache Camel.
 
 ### Prerequisites
 
-Java 8
-Maven 
+- Java 8
+- Maven 
 
 ### Installing
 
